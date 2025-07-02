@@ -74,7 +74,7 @@ I’ve completed the *100 Days of Code challenge* on LeetCode, boosting my DSA a
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/omkar-mahesh-a99b70289/)
 - 🐙 [GitHub](https://github.com/your-github-username)
-- ✉ Email: omkar.mahesh@example.com (replace with actual)
+- ✉ Email: omkarmahesh12345@gmail.com
 
 ---
 
