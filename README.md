@@ -1,21 +1,36 @@
 # 👋 Hi, I'm Omkar Mahesh!
 
-🚀 *Aspiring DevOps Engineer | Full-Stack Developer | Cloud & GenAI Enthusiast*  
-🎓 Computer Science Undergraduate at VIT Bhopal  
-🌐 Passionate about scalable systems, cloud-native apps, and AI-driven innovation.
+### 🚀 Aspiring DevOps Engineer | Full-Stack Developer | Cloud & GenAI Enthusiast
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/omkar-mahesh-a99b70289/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/omkarmm19" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://leetcode.com/u/omkarmm19/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+  </a>
+  <a href="mailto:omkarmahesh12345@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
 ---
 
 ## 💡 About Me
 
-I’m a driven and curious learner working at the intersection of *development* and *operations*, with hands-on experience in:
+I'm a driven and curious Computer Science undergraduate at **VIT Bhopal**, working at the intersection of **development** and **operations**. My passion lies in building **scalable systems, cloud-native applications, and AI-driven innovations**.
 
-- 🔁 Automating deployments and building CI/CD pipelines
-- ⚙ Managing full-stack applications with cloud integrations
-- 📦 Exploring the DevOps toolchain including Docker, GitHub Actions & more
-- 🤖 Building smart apps using Generative AI APIs
+With hands-on experience, I focus on:
 
-I’ve completed the *100 Days of Code challenge* on LeetCode, boosting my DSA and problem-solving mindset. My projects blend creativity with engineering, from *AI-powered full-stack apps* to *open-source contributions* with communities like *GirlScript Summer of Code* and *HacktoberFest*.
+* **Automating Deployments & CI/CD:** Building robust pipelines for efficient software delivery.
+* **Full-Stack Development:** Managing applications with seamless cloud integrations.
+* **DevOps Tooling:** Exploring and utilizing tools like Docker, GitHub Actions, and more.
+* **Generative AI Applications:** Crafting intelligent solutions with AI APIs.
+
+I've honed my Data Structures and Algorithms (DSA) and problem-solving skills by completing the **100 Days of Code challenge on LeetCode**. My projects reflect a blend of creativity and engineering, ranging from **AI-powered full-stack applications** to **open-source contributions** with communities like GirlScript Summer of Code and HacktoberFest.
 
 ---
 
@@ -23,60 +38,53 @@ I’ve completed the *100 Days of Code challenge* on LeetCode, boosting my DSA a
 
 ### 👨‍💻 Programming & Frameworks
 <p align="left">
-  <img src="https://img.shields.io/badge/SQL -4479A1?style-for-the-badge&logo=mysql &logoColor=white" />
-  <img src="https://img.shields.io/badge/Vector %20DB-005571?style=for-the-badge&logo =redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask -000000?style=for-the-badge&logo=flask& logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Vector%20DB-005571?style=for-the-badge&logo=redis&logoColor=white" alt="Vector DB"/>
 </p>
 
 ### ☁ Cloud & DevOps
 <p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="EC2"/>
+  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white" alt="S3"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
 </p>
 
 ### 🤖 AI & Generative AI
 <p align="left">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LLMs-%23005571?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-8A2BE2?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/LLMs-%23005571?style=for-the-badge&logoColor=white" alt="LLMs"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-8A2BE2?style=for-the-badge&logoColor=white" alt="Prompt Engineering"/>
 </p>
 
 ---
 
 ## 🌱 Currently Learning
 
-- 📦 Docker & Kubernetes
-- 🔄 CI/CD Pipelines & GitHub Actions
-- ☁ AWS Cloud Practitioner
-- 🧠 Fine-tuning LLMs & working with Vector DBs (Pinecone, ChromaDB)
+* **Container Orchestration:** Deeper dive into Docker & Kubernetes.
+* **CI/CD Advanced:** Mastering CI/CD Pipelines & GitHub Actions.
+* **Cloud Certifications:** Preparing for AWS Cloud Practitioner.
+* **Advanced AI:** Fine-tuning LLMs and working with Vector Databases (Pinecone, ChromaDB).
 
 ---
 
 ## 📌 Open to Opportunities
 
-💼 Looking for *internships* and opportunities in:  
-- DevOps / Cloud Engineering  
-- Full-Stack + AI Application Development  
-- Site Reliability / Platform Engineering  
+I'm actively seeking **internships** and opportunities in:
+
+* **DevOps / Cloud Engineering**
+* **Full-Stack + AI Application Development**
+* **Site Reliability / Platform Engineering**
 
 ---
 
-## 📫 Let's Connect!
+## 💬 Let's Connect!
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/omkar-mahesh-a99b70289/)
-- 🐙 [GitHub](https://github.com/your-github-username)
-- ✉ Email: omkarmahesh12345@gmail.com
-
----
-
-> “Innovation happens where automation, AI, and scalable thinking meet. That’s where I want to be.”  
-> — Omkar Mahesh
+> “Innovation happens where automation, AI, and scalable thinking meet. That’s where I want to be.” — Omkar Mahesh
