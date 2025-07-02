@@ -26,11 +26,11 @@ I'm a driven and curious Computer Science undergraduate at **VIT Bhopal**, worki
 With hands-on experience, I focus on:
 
 * **Automating Deployments & CI/CD:** Building robust pipelines for efficient software delivery.
-* **Full-Stack Development:** Managing applications with seamless cloud integrations.
+* **Full-Stack Development:** Managing applications with seamless cloud integrations, actively exploring diverse paradigms like the **MERN stack**.
 * **DevOps Tooling:** Exploring and utilizing tools like Docker, GitHub Actions, and more.
 * **Generative AI Applications:** Crafting intelligent solutions with AI APIs.
 
-I've honed my Data Structures and Algorithms (DSA) and problem-solving skills by completing the **100 Days of Code challenge on LeetCode**. My projects reflect a blend of creativity and engineering, ranging from **AI-powered full-stack applications** to **open-source contributions** with communities like GirlScript Summer of Code and HacktoberFest.
+I've honed my **Data Structures and Algorithms (DSA)** and problem-solving skills by completing the **100 Days of Code challenge on LeetCode**, and I continue to deepen my understanding. My projects reflect a blend of creativity and engineering, ranging from **AI-powered full-stack applications** to **open-source contributions** with communities like GirlScript Summer of Code and HacktoberFest.
 
 ---
 
@@ -41,6 +41,9 @@ I've honed my Data Structures and Algorithms (DSA) and problem-solving skills by
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
@@ -68,10 +71,11 @@ I've honed my Data Structures and Algorithms (DSA) and problem-solving skills by
 
 ## 🌱 Currently Learning
 
+* **Full-Stack Development:** Building projects with the **MERN Stack** (MongoDB, Express.js, React, Node.js).
+* **Advanced DSA:** Deepening understanding of **Data Structures and Algorithms** for competitive programming and optimized solutions.
 * **Container Orchestration:** Deeper dive into Docker & Kubernetes.
 * **CI/CD Advanced:** Mastering CI/CD Pipelines & GitHub Actions.
-* **Cloud Certifications:** Preparing for AWS Cloud Practitioner.
-* **Advanced AI:** Fine-tuning LLMs and working with Vector Databases (Pinecone, ChromaDB).
+* **Cloud Certifications:** Preparing for AWS Cloud Practitioner, exploring broader **Cloud Architectures**.
 
 ---
 
