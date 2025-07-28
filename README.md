@@ -1,189 +1,128 @@
-# <div align="center">🚀 **OMKAR MAHESH** 🚀</div>
+<h1 align="center">🌐 Omkar Mahesh</h1>
 
-<div align="center">
+<p align="center">
+  🚀 DevOps Engineer | Cloud Developer | DSA Specialist | GenAI Explorer  
+  <br/>
+  <i>“Crafting Cloud Systems that Scale. Coding Solutions that Stick.”</i>
+</p>
 
-### `Cloud Architect` • `DevOps Engineer` • `DSA Expert`
-
-*Mastering the synergy between **algorithms**, **infrastructure**, and **automation***
-
----
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-4CAF50?style=for-the-badge&logoColor=white)](https://portfolio-omkar-fvx6.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkar-mahesh-a99b70289/)
-[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omkarmm19)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/omkarmm19/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omkarmahesh12345@gmail.com)
-
-</div>
-
----
-
-## 🎯 **MISSION STATEMENT**
-
-> **Building scalable cloud infrastructure with algorithmic precision**  
-> From optimizing O(log n) solutions to orchestrating Kubernetes clusters—I architect systems that perform at scale
-
-**Current Focus:** `VIT Bhopal` • `Cloud Computing & Automation` • `CGPA: 8.38`
-
----
-
-## ⚡ **CORE COMPETENCIES**
-
-<div align="center">
-
-### 🧠 **ALGORITHMIC MASTERY**
-```java
-// 100+ Days of Consistent Problem Solving
-class DSAExpert {
-    String[] languages = {"Java", "Python", "C++"};
-    String specialty = "Advanced Problem Solving & Optimization";
-    boolean completed100DaysChallenge = true;
-}
-```
-
-### ☁️ **CLOUD ARCHITECTURE**
-```yaml
-infrastructure:
-  primary_clouds: [AWS, GCP]
-  specialties: [Serverless, Microservices, Cloud-Native]
-  approach: "Infrastructure as Code"
-```
-
-### 🔧 **DEVOPS AUTOMATION**
-```dockerfile
-# Continuous Integration • Continuous Deployment
-FROM developer:expert
-RUN install-devops-tools
-COPY automation-scripts ./pipelines/
-EXPOSE efficiency scalability reliability
-```
-
-</div>
+<p align="center">
+  <a href="https://portfolio-omkar-fvx6.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌎 Portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/omkar-mahesh-a99b70289/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/omkarmm19" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:omkarmahesh12345@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/omkarmm19/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
 
 ---
 
-## 🛠️ **TECHNOLOGY ARSENAL**
+## 👨‍💻 Who Am I?
 
-<div align="center">
+A Cloud Computing & Automation student at **VIT Bhopal** passionate about:
 
-### **🔥 CORE LANGUAGES**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+- ☁️ Building **cloud-native, scalable apps**  
+- 🔁 Engineering **CI/CD automation** workflows  
+- 💡 Leveraging **GenAI** & **LLMs** for intelligent systems  
+- 🧠 Mastering **Data Structures & Algorithms** with Java
 
-### **☁️ CLOUD & INFRASTRUCTURE**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-### **🔄 DEVOPS PIPELINE**
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
-### **💻 FULL-STACK DEVELOPMENT**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-### **🤖 AI & AUTOMATION**
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-FF6B6B?style=flat-square&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-4ECDC4?style=flat-square&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-45B7D1?style=flat-square&logoColor=white)
-
-</div>
+I blend **code, cloud, and AI** into powerful solutions that are secure, fast, and scalable.
 
 ---
 
-## 🏆 **ELITE ACHIEVEMENTS**
+## 🛠️ DevOps & Cloud Mastery
 
-<div align="center">
+> *"From serverless deployments to full-stack CI/CD — I do it all."*
 
-| 🥇 **RECOGNITION** | 📊 **IMPACT** |
-|:---:|:---:|
-| **1st Rank** - Google GenAI Exchange 2025 | Leading Innovation in AI Integration |
-| **100 Days** - LeetCode DSA Challenge | Advanced Algorithmic Problem Solving |
-| **GSSOC 2024** - Open Source Contributor | Community Impact & Code Quality |
-| **Multi-Cloud Certified** | AWS • GCP • Azure Fundamentals |
-
-</div>
-
----
-
-## 📈 **PROFESSIONAL CERTIFICATIONS**
-
-<div align="center">
-
-```mermaid
-graph LR
-    A[IBM DevOps] --> B[Microsoft Azure DP-900]
-    B --> C[Google GenAI Academy]
-    C --> D[Postman API Expert]
-    D --> E[Advanced System Design]
-    
-    style A fill:#0f4c75
-    style B fill:#00a2ed
-    style C fill:#34a853
-    style D fill:#ff6c37
-    style E fill:#6c5ce7
-```
-
-</div>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 🎯 **CURRENT LEARNING TRAJECTORY**
+## 🧠 DSA & Problem Solving
 
-<div align="center">
+> *"Logic-first thinking + strong foundations = robust solutions."*
 
-### **🚀 ADVANCING EXPERTISE IN:**
+- 💯 Completed **100 Days of LeetCode** in Java  
+- 👨‍🏫 Core: OOP, Time Complexity, Recursion, Trees, Graphs  
+- 🧩 Problem Solving: Java + Python + SQL
 
-**`Kubernetes Orchestration`** • **`Advanced RAG Pipelines`** • **`Infrastructure as Code`**  
-**`System Design at Scale`** • **`Cloud Security`** • **`ML Ops Integration`**
-
-</div>
-
----
-
-## 💡 **PHILOSOPHY**
-
-<div align="center">
-
-### *"Code that scales. Infrastructure that performs. Algorithms that optimize."*
-
-**🎯 Building Tomorrow's Tech Infrastructure Today**
-
-```bash
-while (learning) {
-    implement();
-    optimize();
-    scale();
-    repeat();
-}
-```
-
-</div>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-<div align="center">
+## 🌐 Full-Stack Engineering (MERN & Serverless)
 
-### **🤝 CONNECT & COLLABORATE**
+> *"From UI to APIs to DB to Cloud. One Dev. Zero Bottlenecks."*
 
-*Ready to architect the future of cloud-native applications?*
-
-[![Reach Out](https://img.shields.io/badge/Let's_Build_Something_Amazing-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omkarmahesh12345@gmail.com)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 
-**⭐ If you find my work valuable, consider starring my repositories!**
+## 🤖 Generative AI & Automation
 
-</div>
+> *"AI isn't the future. It's my present."*
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-005571?style=for-the-badge&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG%20Pipelines-4F46E5?style=for-the-badge&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-8A2BE2?style=for-the-badge&logoColor=white)
+
+---
+
+## 📜 Certifications & Milestones
+
+🎓 **Google GenAI Exchange 2025** — 🥇 *1st Rank*  
+🎓 IBM: DevOps, Agile & Design Fundamentals  
+🎓 Microsoft: Azure Data Fundamentals (DP-900)  
+🧠 100 Days of LeetCode (Java)  
+🛠 GSSOC 2024 & Hacktoberfest Contributor
+
+---
+
+## 📈 Currently Leveling Up In
+
+- ☸️ Kubernetes & Helm  
+- ⚙️ Production-Grade CI/CD Workflows  
+- 🧠 AI Agents + Open Source LLMs  
+- 📐 System Design (CAP, Load Balancing, Microservices)  
+- 📦 IaC Mastery with Terraform + Ansible
+
+---
+
+## 🧩 Let’s Build Together
+
+> *Whether you're building the future of cloud or coding the next AI revolution — I'm ready to collaborate.*
+
+<p align="center">
+  <a href="mailto:omkarmahesh12345@gmail.com">
+    <img src="https://img.shields.io/badge/Email Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
