@@ -1,109 +1,189 @@
-# 👋 Hey there! I'm Omkar Mahesh
+# <div align="center">🚀 **OMKAR MAHESH** 🚀</div>
 
-### 🚀 DevOps Engineer in the Making | Full-Stack Cloud Developer | GenAI Explorer
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/omkar-mahesh-a99b70289/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/omkarmm19" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/omkarmm19/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="mailto:omkarmahesh12345@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://portfolio-omkar-fvx6.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%234CAF50?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
+### `Cloud Architect` • `DevOps Engineer` • `DSA Expert`
+
+*Mastering the synergy between **algorithms**, **infrastructure**, and **automation***
 
 ---
 
-## 🧠 About Me
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-4CAF50?style=for-the-badge&logoColor=white)](https://portfolio-omkar-fvx6.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkar-mahesh-a99b70289/)
+[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omkarmm19)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/omkarmm19/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omkarmahesh12345@gmail.com)
 
-I'm Omkar — a Cloud Computing & Automation student at **VIT Bhopal** with a mission to blend development, infrastructure, and intelligence.
-
-I specialize in building **cloud-native apps**, automating workflows using **DevOps pipelines**, and leveraging **Generative AI** to create smart, scalable systems.
-
----
-
-## ⚙️ Tech Stack & Expertise
-
-### 💻 Programming Languages
-![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+</div>
 
 ---
 
-### 🌐 Full-Stack Development
-![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![REST API](https://img.shields.io/badge/REST%20API-%2300C7B7?style=for-the-badge&logo=fastapi&logoColor=white)
+## 🎯 **MISSION STATEMENT**
+
+> **Building scalable cloud infrastructure with algorithmic precision**  
+> From optimizing O(log n) solutions to orchestrating Kubernetes clusters—I architect systems that perform at scale
+
+**Current Focus:** `VIT Bhopal` • `Cloud Computing & Automation` • `CGPA: 8.38`
 
 ---
 
-### ☁️ Cloud & DevOps Tooling
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-%23007ACC?style=for-the-badge&logo=azurepipelines&logoColor=white)
+## ⚡ **CORE COMPETENCIES**
+
+<div align="center">
+
+### 🧠 **ALGORITHMIC MASTERY**
+```java
+// 100+ Days of Consistent Problem Solving
+class DSAExpert {
+    String[] languages = {"Java", "Python", "C++"};
+    String specialty = "Advanced Problem Solving & Optimization";
+    boolean completed100DaysChallenge = true;
+}
+```
+
+### ☁️ **CLOUD ARCHITECTURE**
+```yaml
+infrastructure:
+  primary_clouds: [AWS, GCP]
+  specialties: [Serverless, Microservices, Cloud-Native]
+  approach: "Infrastructure as Code"
+```
+
+### 🔧 **DEVOPS AUTOMATION**
+```dockerfile
+# Continuous Integration • Continuous Deployment
+FROM developer:expert
+RUN install-devops-tools
+COPY automation-scripts ./pipelines/
+EXPOSE efficiency scalability reliability
+```
+
+</div>
 
 ---
 
-### 🤖 Generative AI & Automation
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-8A2BE2?style=for-the-badge&logoColor=white)
-![RAG](https://img.shields.io/badge/Retrieval%20Augmented%20Generation-4F46E5?style=for-the-badge&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-%23005571?style=for-the-badge&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+## 🛠️ **TECHNOLOGY ARSENAL**
+
+<div align="center">
+
+### **🔥 CORE LANGUAGES**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+### **☁️ CLOUD & INFRASTRUCTURE**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+### **🔄 DEVOPS PIPELINE**
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+### **💻 FULL-STACK DEVELOPMENT**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+### **🤖 AI & AUTOMATION**
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-FF6B6B?style=flat-square&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-4ECDC4?style=flat-square&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-45B7D1?style=flat-square&logoColor=white)
+
+</div>
 
 ---
 
-## 🎯 Certifications & Achievements
+## 🏆 **ELITE ACHIEVEMENTS**
 
-- 🥇 **1st Rank** — Google GenAI Exchange Program 2025  
-- ✅ IBM Certified: DevOps, Agile & Design Fundamentals  
-- ✅ Microsoft Certified: Azure Data Fundamentals (DP-900)  
-- ✅ Google GenAI Academy Graduate  
-- ✅ 100 Days of Code (LeetCode Java)  
-- 🛠 Contributed to GSSOC 2024 & Hacktoberfest
+<div align="center">
 
----
+| 🥇 **RECOGNITION** | 📊 **IMPACT** |
+|:---:|:---:|
+| **1st Rank** - Google GenAI Exchange 2025 | Leading Innovation in AI Integration |
+| **100 Days** - LeetCode DSA Challenge | Advanced Algorithmic Problem Solving |
+| **GSSOC 2024** - Open Source Contributor | Community Impact & Code Quality |
+| **Multi-Cloud Certified** | AWS • GCP • Azure Fundamentals |
 
-## 🌱 Currently Learning
-
-- 🧱 **Kubernetes** & Advanced Docker  
-- 📦 **RAG Pipelines** with LLMs  
-- ⚙️ **Terraform + Ansible** for Infra as Code  
-- 📐 **System Design** for scalable architectures  
-- 🔁 **End-to-End CI/CD pipelines** with GitHub Actions
+</div>
 
 ---
 
-## 🤝 Let’s Connect!
+## 📈 **PROFESSIONAL CERTIFICATIONS**
 
-> *“Code that scales. Cloud that performs. AI that thinks. That’s the future I’m building.”* — Omkar Mahesh
+<div align="center">
 
-<p align="center">
-  <a href="mailto:omkarmahesh12345@gmail.com">
-    <img src="https://img.shields.io/badge/Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+```mermaid
+graph LR
+    A[IBM DevOps] --> B[Microsoft Azure DP-900]
+    B --> C[Google GenAI Academy]
+    C --> D[Postman API Expert]
+    D --> E[Advanced System Design]
+    
+    style A fill:#0f4c75
+    style B fill:#00a2ed
+    style C fill:#34a853
+    style D fill:#ff6c37
+    style E fill:#6c5ce7
+```
+
+</div>
+
+---
+
+## 🎯 **CURRENT LEARNING TRAJECTORY**
+
+<div align="center">
+
+### **🚀 ADVANCING EXPERTISE IN:**
+
+**`Kubernetes Orchestration`** • **`Advanced RAG Pipelines`** • **`Infrastructure as Code`**  
+**`System Design at Scale`** • **`Cloud Security`** • **`ML Ops Integration`**
+
+</div>
+
+---
+
+## 💡 **PHILOSOPHY**
+
+<div align="center">
+
+### *"Code that scales. Infrastructure that performs. Algorithms that optimize."*
+
+**🎯 Building Tomorrow's Tech Infrastructure Today**
+
+```bash
+while (learning) {
+    implement();
+    optimize();
+    scale();
+    repeat();
+}
+```
+
+</div>
+
+---
+
+<div align="center">
+
+### **🤝 CONNECT & COLLABORATE**
+
+*Ready to architect the future of cloud-native applications?*
+
+[![Reach Out](https://img.shields.io/badge/Let's_Build_Something_Amazing-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omkarmahesh12345@gmail.com)
+
+---
+
+**⭐ If you find my work valuable, consider starring my repositories!**
+
+</div>
