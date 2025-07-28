@@ -1,109 +1,107 @@
-# 👋 Hey there! I'm Omkar Mahesh
-
-### 🚀 DevOps Engineer in the Making | Full-Stack Cloud Developer | GenAI Explorer
+<h1 align="center">☁️ Omkar Mahesh</h1>
+<h3 align="center">Cloud & DevOps Enthusiast | Full-Stack Developer | GenAI Explorer</h3>
 
 <p align="center">
+  <a href="https://portfolio-omkar-fvx6.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-Next.js powered-000?style=for-the-badge" />
+  </a>
+  <a href="mailto:omkarmahesh12345@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/omkar-mahesh-a99b70289/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/omkarmm19" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/omkarmm19/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="mailto:omkarmahesh12345@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://portfolio-omkar-fvx6.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%234CAF50?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🧠 About Me
+## 🚀 About Me
 
-Hi, I’m Omkar — a Computer Science undergrad at **VIT Bhopal** specializing in **Cloud Computing & Automation**.  
-I bridge the gap between **code, cloud, and AI** by crafting intelligent, scalable systems.
-
-I thrive in building **cloud-native full-stack applications**, automating infrastructure with **DevOps tools**, and experimenting with **Generative AI** to power smart features in real-world apps.
-
----
-
-## ⚙️ Tech Stack & Toolbelt
-
-### 💻 Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### 🌐 Frontend & Backend
-![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-### 🧠 AI & LLMs
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-8A2BE2?style=for-the-badge&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-%234F46E5?style=for-the-badge&logoColor=white)
+🎓 CSE @ **VIT Bhopal** (Cloud Computing & Automation)  
+🧠 Cloud-First Thinker | DevOps Practitioner | Automation Advocate  
+💡 I love building **resilient cloud-native systems**, automating with **CI/CD pipelines**, and integrating **AI** in ops workflows.
 
 ---
 
-## 🧩 Featured Projects
+## ☁️ Cloud & DevOps Tech Stack
 
-🎤 **[Place Prep](https://place-prep.vercel.app/)**  
-*AI-Powered Interview Platform*  
-> Built with Next.js, OpenAI & Deepgram for real-time voice interviews and instant feedback.
-
-🎵 **[Serverless Music Player](https://dqwynj1udvvj0.cloudfront.net)**  
-*Cloud-native audio streaming platform*  
-> Deployed with AWS S3 + CloudFront, secured via SSL/TLS.
-
-🎓 **[NewsVITaa](https://newsvita-59b66.web.app/)**  
-*Centralized event portal for VIT Bhopal*  
-> Firebase backend + React UI to streamline campus engagement.
+| 🧰 Tools           | ⚙️ Technologies                           |
+|-------------------|-------------------------------------------|
+| **Cloud**         | AWS (EC2, S3, CloudFront), Google Cloud   |
+| **Infrastructure**| Docker, Terraform, Ansible, Linux         |
+| **CI/CD**         | GitHub Actions, Azure Pipelines, Scrum    |
+| **Monitoring**    | Grafana, AWS CloudWatch                   |
 
 ---
 
-## 🏆 Highlights
+## 👨‍💻 Languages
 
-- 🥇 **1st Rank** – Google Gen AI Exchange Program 2025  
-- 💻 **100 Days of Code** – LeetCode Java DSA Challenge  
-- 🛠️ **GSSOC '24 + HacktoberFest** – Open Source Contributor  
-- 📜 Certified by **IBM**, **Microsoft**, **Postman**, **Google**
-
----
-
-## 📚 Currently Leveling Up In
-
-- 🚢 **Kubernetes & Docker Swarm** for app orchestration  
-- 🔁 **Advanced CI/CD** using GitHub Actions & Terraform  
-- 💬 **LLMs & RAG Pipelines** for contextual AI apps  
-- 📊 **System Design** & **Cloud Architecture Patterns**
+![Java](https://img.shields.io/badge/Java-%23ED8B00?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ---
 
-## 🤝 Let's Build the Future
+## 🌐 Full-Stack Development
 
-> *“Innovation lives at the intersection of automation, intelligence, and scale — that’s where I’m headed.”*  
-> — Omkar Mahesh
+| 🧑‍🎨 Frontend              | 🛠 Backend             | 🧱 Database / Infra   |
+|---------------------------|------------------------|------------------------|
+| React.js, Next.js, Tailwind | Node.js, Express.js     | MongoDB, Firebase, REST APIs |
 
-<p align="center">
-  <a href="mailto:omkarmahesh12345@gmail.com">
-    <img src="https://img.shields.io/badge/Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+---
+
+## 📦 Developer & GenAI Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+🧠 **AI Tools**  
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-%23005571?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-8A2BE2?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-%234F46E5?style=flat-square)
+
+---
+
+## 💡 Core Strengths
+
+- ✅ End-to-End Cloud Deployments
+- ✅ CI/CD with Infrastructure as Code
+- ✅ API Development & Integration
+- ✅ DSA Mastery (Java) + Leetcode 100 Days
+- ✅ Scalable, Responsive UI Development
+- ✅ Prompt Engineering & GenAI APIs
+
+---
+
+## 📜 Certifications
+
+- 🥇 **1st Rank** – Google GenAI Exchange Program  
+- ✅ **IBM** – DevOps, Agile & Design | Fundamentals  
+- ✅ **Microsoft** – Azure Data Fundamentals (DP-900)  
+- ✅ **Postman** – API Fundamentals  
+- ✅ **Google** – Gen AI Academy  
+- 🎯 **100 Days of LeetCode** – Java
+
+---
+
+## 🌱 Currently Growing In
+
+```yaml
+learning:
+  - Kubernetes & Helm
+  - DevSecOps & GitOps
+  - RAG pipelines in MLOps
+  - Multi-Cloud Strategy
+  - Advanced Monitoring & Logging
