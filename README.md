@@ -79,28 +79,6 @@ const omkar = {
 
 ---
 
-## 💡 **Featured Projects**
-
-### 🎯 [**Place Prep - AI Interview Platform**](https://place-prep.vercel.app/) `Featured Project`
-**Tech Stack:** `Next.js` `OpenAI API` `Deepgram API` `Firebase`
-- 🤖 **AI-powered voice interview simulator** with 95% speech recognition accuracy
-- ⚡ **500+ users** | **100+ concurrent sessions** | **99.9% uptime**
-- 📊 **70% reduction** in manual transcription time
-
-### 🎵 [**Serverless Music Player**](https://dqwynj1udvvj0.cloudfront.net)
-**Tech Stack:** `AWS S3` `CloudFront` `JavaScript`
-- ☁️ **Global CDN distribution** with SSL/TLS security
-- 🚀 **40% faster load times** | **25% cost optimization**
-- 🎧 Handles **500+ concurrent streams**
-
-### 📅 [**NewsVITaa - Event Management**](https://newsvita-59b66.web.app)
-**Tech Stack:** `React.js` `Firebase` `Cloud Firestore`
-- 🏫 **2,000+ students** using the platform
-- 📈 **50% engagement boost** | **30% admin workload reduction**
-- 🔄 Real-time event sync and notifications
-
----
-
 ## 📊 **GitHub Analytics**
 
 <div align="center">
