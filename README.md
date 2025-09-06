@@ -1,128 +1,190 @@
-<h1 align="center">⚡ Omkar Mahesh</h1>
+# 👋 Hey there! I'm **Omkar Mahesh**
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F4AB&center=true&vCenter=true&width=700&lines=DevOps+Engineer+in+the+Making;Cloud+Native+Developer+%7C+Infra+as+Code;Full-Stack+Engineer+%7C+Java+DSA+Solver;GenAI+%7C+LLMs+%7C+Automation+Enthusiast" />
-</p>
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+%7C+Cloud+Engineer;DevOps+Enthusiast+%7C+Java+DSA+Expert;AI+Integration+Specialist+%7C+Open+Source+Contributor)](https://git.io/typing-svg)
 
-<p align="center">
-  <a href="https://portfolio-omkar-fvx6.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 Portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/omkar-mahesh-a99b70289/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/omkarmm19" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/omkarmm19/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="mailto:omkarmahesh12345@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+</div>
+
+<div align="center">
+  
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-omkar-fvx6.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkar-mahesh-a99b70289/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/omkarmm19/)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omkarmahesh12345@gmail.com)
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 **About Me**
 
-🎓 B.Tech in Cloud Computing & Automation @ **VIT Bhopal**  
-🚀 Obsessed with **DevOps**, **Cloud Infra**, **Full-Stack Engineering**, and **Java DSA**  
-🧠 I build scalable systems, automate processes, and experiment with GenAI pipelines
+```javascript
+const omkar = {
+    education: "B.Tech Computer Science - Cloud Computing & Automation @ VIT Bhopal",
+    currentGPA: "8.38/10.0",
+    passions: ["Full-Stack Development", "Cloud Architecture", "DevOps", "AI Integration"],
+    currentFocus: "Building scalable cloud-native applications with modern tech stack",
+    philosophy: "Write code that scales, automate what repeats, solve what matters ⚡"
+};
+```
 
-> _“I build what scales, automate what repeats, and solve what matters.”_
-
----
-
-## 🛠️ My Tech Toolbox
-
-### 💡 Programming Languages & DSA
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-
-> 🧠 DSA Focus: OOPs • Graphs • Trees • Recursion • Greedy • Dynamic Programming
+🎯 **Computer Science Student** specializing in **Cloud Computing & Automation**  
+💻 **500+ DSA Problems** solved in Java | **1st Rank** in Google GenAI Program 2025  
+🌟 **Open Source Contributor** | **IBM & Microsoft Certified**  
 
 ---
 
-### ☁️ DevOps & Cloud
+## 🛠️ **Tech Arsenal**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-5F43E9?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+### **Languages & Core**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-> ⚙️ CI/CD • Infra as Code • Monitoring • Automation
+### **Frontend Development**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
----
+### **Backend & Database**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=swagger&logoColor=white)
 
-### 🧩 Full-Stack Web Development
+### **Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![REST API](https://img.shields.io/badge/REST_API-00C7B7?style=for-the-badge&logo=fastapi&logoColor=white)
-
----
-
-### 🤖 Generative AI
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-4F46E5?style=for-the-badge&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8A2BE2?style=for-the-badge&logoColor=white)
-
----
-
-### 🧰 Developer Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+### **AI & Development Tools**
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
-## 🏆 Achievements
+## 💡 **Featured Projects**
 
-- 🥇 1st Rank – Google GenAI Exchange Program 2025  
-- ✅ IBM Certified – DevOps, Agile & Design Fundamentals  
-- ✅ Microsoft Certified – Azure Data Fundamentals (DP-900)  
-- 💯 100 Days of LeetCode – Java  
-- 🛠 GSSOC 2024 & Hacktoberfest Contributor
+### 🎯 [**Place Prep - AI Interview Platform**](https://place-prep.vercel.app/) `Featured Project`
+**Tech Stack:** `Next.js` `OpenAI API` `Deepgram API` `Firebase`
+- 🤖 **AI-powered voice interview simulator** with 95% speech recognition accuracy
+- ⚡ **500+ users** | **100+ concurrent sessions** | **99.9% uptime**
+- 📊 **70% reduction** in manual transcription time
 
----
+### 🎵 [**Serverless Music Player**](https://dqwynj1udvvj0.cloudfront.net)
+**Tech Stack:** `AWS S3` `CloudFront` `JavaScript`
+- ☁️ **Global CDN distribution** with SSL/TLS security
+- 🚀 **40% faster load times** | **25% cost optimization**
+- 🎧 Handles **500+ concurrent streams**
 
-## 🌱 Currently Exploring
-
-- ☸️ Kubernetes & Helm  
-- 📦 Infra as Code (Advanced Terraform + Ansible)  
-- ⚙️ GitHub Actions CI/CD pipelines  
-- 🤖 RAG + LLM Systems  
-- 📐 System Design @ Scale
-
----
-
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/omkar-mahesh-a99b70289)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/omkarmm19)
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/omkarmm19/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=vercel)](https://portfolio-omkar-fvx6.vercel.app/)
-[![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:omkarmahesh12345@gmail.com)
+### 📅 [**NewsVITaa - Event Management**](https://newsvita-59b66.web.app)
+**Tech Stack:** `React.js` `Firebase` `Cloud Firestore`
+- 🏫 **2,000+ students** using the platform
+- 📈 **50% engagement boost** | **30% admin workload reduction**
+- 🔄 Real-time event sync and notifications
 
 ---
 
-> _“Cloud that performs. Code that scales. AI that thinks.” — Omkar Mahesh_
+## 📊 **GitHub Analytics**
+
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=omkarmm19&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarmm19&layout=compact&langs_count=7&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=omkarmm19&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏆 **Achievements & Certifications**
+
+🥇 **1st Rank** - Google GenAI Exchange Program 2025  
+🎯 **500+ LeetCode Problems** solved in Java & Python  
+🏅 **IBM Certified** - DevOps, Agile & Design  
+☁️ **Microsoft Certified** - Azure Data Fundamentals (DP-900)  
+🌟 **Open Source Contributor** - GSSOC 2024 & Hacktoberfest  
+📊 **Tata Certified** - Data Visualization  
+
+---
+
+## 📈 **LeetCode Journey**
+
+<div align="center">
+  
+[![LeetCode Stats](https://leetcard.jacoblin.cool/omkarmm19?theme=dark&font=Nunito&ext=heatmap)](https://leetcode.com/u/omkarmm19/)
+
+</div>
+
+---
+
+## 🎯 **Current Focus & Learning**
+
+```yaml
+Currently Working On:
+  - 🔧 Advanced Kubernetes & Helm Charts
+  - 🏗️ Infrastructure as Code with Terraform
+  - 🤖 RAG Pipelines & LLM Integration
+  - 📐 System Design at Scale
+  - 🔄 Advanced CI/CD with GitHub Actions
+
+Next Goals:
+  - 🎖️ AWS Solutions Architect Certification
+  - 🚀 Contribute to major open-source projects
+  - 💼 Full-time Software Engineering role
+```
+
+---
+
+## 💬 **Let's Connect!**
+
+<div align="center">
+
+**Available for:** `Full-Stack Development` `Cloud Engineering` `DevOps` `AI Integration`
+
+**Looking for:** `Software Engineer Internships` `Open Source Collaborations` `Tech Communities`
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkar-mahesh-a99b70289/)
+[![Portfolio](https://img.shields.io/badge/View_My_Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-omkar-fvx6.vercel.app/)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 🌟 *"Building the future, one commit at a time"* 🌟
+
+**Thanks for visiting! Don't forget to ⭐ star repositories you find interesting!**
+
+</div>
+
+---
+
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=omkarmm19&label=Profile%20views&color=0e75b6&style=flat)
+[![Follow](https://img.shields.io/github/followers/omkarmm19.svg?style=social&label=Follow)](https://github.com/omkarmm19)
+
+</div>
