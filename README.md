@@ -118,6 +118,14 @@
 
 </div>
 
+## 📈 LeetCode Stats
+
+<div align="center">
+  
+[![LeetCode Stats](https://leetcard.jacoblin.cool/omkarmm19?theme=dark&font=Nunito&ext=heatmap)](https://leetcode.com/u/omkarmm19/)
+
+</div>
+
 ---
 
 ## 🌱 Currently Exploring
@@ -125,7 +133,7 @@
 - ☸️ Kubernetes & Helm Charts  
 - 📦 Advanced Terraform + Ansible Automation  
 - ⚙️ GitHub Actions CI/CD pipelines  
-- 🤖 LLM Integration Systems  
+- 🤖 RAG + LLM Integration Systems  
 - 📐 System Design @ Scale
 
 ---
