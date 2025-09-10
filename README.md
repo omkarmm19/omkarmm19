@@ -26,7 +26,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 B.Tech in Cloud Computing & Automation @ **VIT Bhopal**  
+🎓 B.Tech in Cloud Computing & Automation @ **Vellore Institute of Technolgy, Bhopal**  
 🚀 Obsessed with **DevOps**, **Cloud Infra**, **Full-Stack Engineering**, and **Java DSA**  
 🧠 I build scalable systems, automate processes, and experiment with GenAI pipelines
 
