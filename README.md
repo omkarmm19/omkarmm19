@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-omkar-fvx6.vercel.app/" target="_blank">
+  <a href="https://portfolio-omkar-mern.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐 Portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/omkar-mahesh-a99b70289/" target="_blank">
