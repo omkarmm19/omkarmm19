@@ -89,9 +89,9 @@ B.Tech in Computer Science and Engineering *(Cloud Computing & Automation)* &ems
 </td>
 <td align="center">
 
-**Tools**
+**Dev Tools**
 
-<img src="https://skillicons.dev/icons?i=git,postman,vscode,react&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark" />
 
 </td>
 </tr>
