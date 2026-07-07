@@ -6,13 +6,14 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=4000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+production-grade+AI+%26+backend+systems;AWS+Certified+Solutions+Architect;FastAPI+%C2%B7+PostgreSQL+%C2%B7+Docker+%C2%B7+Terraform;Shipped.+Real.+Scalable.)](https://git.io/typing-svg)
-
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=4000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+production-grade+AI+%26+backend+systems;AWS+Certified+Solutions+Architect+%2B+Cloud+Practitioner;FastAPI+%C2%B7+PostgreSQL+%C2%B7+Docker+%C2%B7+Terraform+%C2%B7+AWS;Shipped.+Real.+Scalable.)](https://git.io/typing-svg)
 
 <br/>
 
-<div align="center">
+[![AWS SAA](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/e0541226-e871-4e0f-9fc8-609dfd24f873/public_url)&nbsp;
+[![AWS CCP](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/bad01b94-b5f9-4260-a1fb-8cc68aea78d5/public_url)
+
+<br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-4F46E5?style=flat-square&logo=vercel&logoColor=white&label=)](https://portfolio-omkar-mern.vercel.app/)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&label=)](https://www.linkedin.com/in/omkar-mahesh-a99b70289/)&nbsp;
@@ -34,15 +35,26 @@
 
 <img align="right" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-I'm **Omkar Mahesh**, a Computer Science undergraduate at **VIT Bhopal** specializing in **Cloud Computing & Automation**. I build and ship production-grade systems — AI-powered backends, containerized microservices, and cloud infrastructure on AWS.
+I'm **Omkar Mahesh**, a Computer Science undergraduate specializing in **Cloud Computing & Automation**. I build and ship production-grade systems — AI-powered backends, containerized microservices, and cloud infrastructure on AWS, end-to-end.
 
-Everything I build is deployed, real, and serving users. Not demos.
+Not demos. Not prototypes. **Shipped. Real. Scalable.**
 
-Currently focused on **backend engineering**, **cloud-native architecture**, and **LLM-powered AI systems**. Open to full-time roles, internships, and remote opportunities.
+- 🔩 &nbsp;Backend systems with FastAPI, PostgreSQL, Redis, Docker
+- ☁️ &nbsp;AWS Certified — hands-on EC2, VPC, RDS, IAM, Lambda, Terraform
+- 🤖 &nbsp;LLM-powered AI platforms with Groq Llama-3 and RAG pipelines
+- ⚙️ &nbsp;Go CLI tooling, async architectures, zero-touch CI/CD
 
-**VIT Bhopal** &nbsp;·&nbsp; B.Tech in Computer Science and Engineering *(Cloud Computing & Automation)* &nbsp;·&nbsp; CGPA 8.6 / 10 &nbsp;·&nbsp; 2023 – 2027
+<br/>
 
-> **Open to** Backend Engineering · AI Engineering · DevOps / Cloud · Remote
+> **Open to** Backend Engineering · AI Engineering · DevOps / Cloud · Remote · Full-time & Internships
+
+---
+
+## Education
+
+**Vellore Institute of Technology, Bhopal** &emsp; `Sept 2023 – June 2027`
+
+B.Tech in Computer Science and Engineering *(Cloud Computing & Automation)* &emsp; **CGPA: 8.6 / 10**
 
 ---
 
@@ -50,31 +62,40 @@ Currently focused on **backend engineering**, **cloud-native architecture**, and
 
 <div align="center">
 
-<br/>
+<table>
+<tr>
+<td align="center" width="360">
 
 **Backend**
 
-[![](https://skillicons.dev/icons?i=fastapi,postgres,redis,sqlite&theme=dark)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=fastapi,postgres,redis,sqlite&theme=dark" />
 
-<br/>
+</td>
+<td align="center" width="360">
 
 **Cloud & DevOps**
 
-[![](https://skillicons.dev/icons?i=aws,docker,terraform,nginx,githubactions,linux&theme=dark)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=aws,docker,terraform,nginx,githubactions,linux&theme=dark" />
 
-<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
 
 **Languages**
 
-[![](https://skillicons.dev/icons?i=python,go,js,bash&theme=dark)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=python,go,js,bash&theme=dark" />
 
-<br/>
+</td>
+<td align="center">
 
-**Frontend & Tools**
+**Tools**
 
-[![](https://skillicons.dev/icons?i=react,vite,git,postman&theme=dark)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=git,postman,vscode,react&theme=dark" />
 
-<br/>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -112,13 +133,11 @@ Currently focused on **backend engineering**, **cloud-native architecture**, and
 
 ---
 
-## Coding Profiles
+## Coding
 
 <div align="center">
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-omkarmm19-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/omkarmm19/)
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/omkarmm19/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/omkarmm19)
 
 </div>
 
@@ -128,13 +147,11 @@ Currently focused on **backend engineering**, **cloud-native architecture**, and
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=omkarmm19&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C9D1D9&ring_color=6D28D9" />
-&nbsp;&nbsp;
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarmm19&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=omkarmm19&theme=tokyonight" width="32%" />&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omkarmm19&theme=tokyonight" width="32%" />&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omkarmm19&theme=tokyonight" width="32%" />
 
-</div>
-
-<div align="center">
+<br/>
 
 <img src="https://streak-stats.demolab.com/?user=omkarmm19&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=6B7280" width="65%" />
 
@@ -153,14 +170,6 @@ Currently focused on **backend engineering**, **cloud-native architecture**, and
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omkarmm19&theme=tokyonight" width="100%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omkarmm19&theme=tokyonight" width="32%" />&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omkarmm19&theme=tokyonight" width="32%" />&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=omkarmm19&theme=tokyonight&utcOffset=5.5" width="32%" />
 
 </div>
 
@@ -191,9 +200,10 @@ open_to:
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-portfolio--omkar--mern.vercel.app-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-omkar-mern.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkar-mahesh-a99b70289/)
-[![Gmail](https://img.shields.io/badge/Gmail-omkarmahesh12345%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omkarmahesh12345@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-omkar-mern.vercel.app/)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkar-mahesh-a99b70289/)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omkarmahesh12345@gmail.com)&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/omkarmm19/)
 
 </div>
 
