@@ -95,6 +95,15 @@ B.Tech in Computer Science and Engineering *(Cloud Computing & Automation)* &ems
 
 </td>
 </tr>
+<tr>
+<td align="center" colspan="2">
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,vite,html,css&theme=dark" />
+
+</td>
+</tr>
 </table>
 
 </div>
