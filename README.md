@@ -156,9 +156,8 @@ B.Tech in Computer Science and Engineering *(Cloud Computing & Automation)* &ems
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=omkarmm19&theme=tokyonight" width="32%" />&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omkarmm19&theme=tokyonight" width="32%" />&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omkarmm19&theme=tokyonight" width="32%" />
+<img src="https://github-readme-stats.vercel.app/api?username=omkarmm19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C9D1D9" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarmm19&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="42%" />
 
 <br/>
 
